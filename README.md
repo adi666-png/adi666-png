@@ -31,8 +31,8 @@
 
 <table>
 <tr>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en " width="500" height="500" alt="adi666-png" /></td>
-<td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&" width="500" height="500" alt="adi666-png" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en " width="250" height="250" alt="adi666-png" /></td>
+<td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&" width="250" height="250" alt="adi666-png" /></td>
 </tr>
 </table>
 
