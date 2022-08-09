@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
+<img align="center" alt="Coding" width="800" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
 
 <h1 align = "center"> Greetings, fortunate one! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
