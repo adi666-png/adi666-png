@@ -4,15 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/S5T2K2N.gif">
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">From Qatar, I am come.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apt-get&label=Profile%20views&color=0e75b6&style=flat" alt="apt-get" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi666-png&label=Profile%20views&color=0e75b6&style=flat" alt="adi666-png" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dongdong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dongdong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dongdong" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="dongdong" height="50" width="50" /></a>
 <a href="https://instagram.com/nonewhatsoever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nonewhatsoever" height="30" width="40" /></a>
-<a href="/dingdong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dingdong" height="30" width="40" /></a>
+<a href="https://www.google.co.in" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="50" width="50"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
