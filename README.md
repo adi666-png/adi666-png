@@ -1,6 +1,6 @@
 <h1 align = "center"> Greetings, fortunate one! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
-...
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/S5T2K2N.gif">
 
 
 
