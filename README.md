@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apt-get&show_icons=true&locale=en" alt="apt-get" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apt-get&" alt="apt-get" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&" alt="adi666-png" /></p>
 
 
 
