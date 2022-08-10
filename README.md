@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball.gif">
 
-<h3 align="left">Primary Research Interests </h3>
+<h3 align="left">Primary Research Interests: </h3>
  
 - Machine learning & Artificial Intelligence, in particular using variational quantum circuits and quantum tensor networks for enhacing them
 
