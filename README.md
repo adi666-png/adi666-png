@@ -51,8 +51,8 @@
 
 <h3 align="left">Some GitHub Statistics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en&theme=radical " width="450" height="250" alt="adi666-png" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&theme=radical" width="450" height="250" alt="adi666-png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en&theme=radical " width="400" height="250" alt="adi666-png" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&theme=radical" width="400" height="250" alt="adi666-png" />
 </p>
 
 
