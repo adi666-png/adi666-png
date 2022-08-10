@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="850" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
 
-<h1 align = "center"> Greetings, fortunate one! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
+<h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
 <h3 align="left">About me: </h3>
 
@@ -11,9 +11,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/S5T2K2N.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball.gif">
 
-<h3 align="left">Hello there. My name is Aditya. I am primarily interested in:
+<h3 align="left">Primary Research Interests </h3>
  
 - Machine learning & Artificial Intelligence, in particular using variational quantum circuits and quantum tensor networks for enhacing them
 
@@ -21,11 +21,12 @@
 
 - Optimal & Efficient implementation of quantum circuits designed for important quantum algorithms
 
-</h3>
+
 
 ---
 
-<h3 align="left">📫 For reaching me, consider the following options:<img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "75px"></h3>
+<h3 align="left">📫 For reaching me, consider the following options:</h3>
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 <p align="left">
 <a href="https://linkedin.com/in/dongdong" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="dongdong" height="50" width="50" /></a>
 <a href="https://www.google.co.in" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a>
@@ -44,14 +45,14 @@
 <h3 align="left">Tools:</h3>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+---
+
 <h3 align="left">Some GitHub Statistics:</h3>
 
-<table>
-<tr>
-<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en&theme=radical " width="500" height="500" alt="adi666-png" /></td>
-<td><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&theme=radical" width="500" height="500" alt="adi666-png" /></td>
-</tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adi666-png&show_icons=true&locale=en&theme=radical " width="450" height="250" alt="adi666-png" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi666-png&theme=radical" width="450" height="250" alt="adi666-png" />
+</p>
+
 
 <img align = "left" src="https://komarev.com/ghpvc/?username=adi666-png&label=Profile%20views&color=0e75b6&style=flat" alt="adi666-png" />
 
