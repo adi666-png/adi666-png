@@ -1,8 +1,10 @@
-<img align="center" alt="Coding" width="850" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
+<img align="center" alt="Coding" width="1000" height="600" src="https://github.com/adi666-png/adi666-png/blob/main/assets/looptang.gif">
 
 <h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
 <h3 align="left">About me: </h3>
+
+<img align="right" alt="Coding" width="200" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
 
 - 👋 Hi, I’m @adi666-png
 - 👀 I’m interested in ...
@@ -26,7 +28,7 @@
 ---
 
 <h3 align="left">📫 For reaching me, consider the following options:</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/adi666-png/adi666-png/blob/main/assets/handshake.gif">
 <p align="left">
 <a href="https://linkedin.com/in/dongdong" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="dongdong" height="50" width="50" /></a>
 <a href="https://www.google.co.in" target="blank"><img align="center" src="https://zellusmarketing.com/wp-content/uploads/2021/03/icon-3s-360px.gif" alt="dingdong" height="100" width="100"/></a>
