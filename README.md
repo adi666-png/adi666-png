@@ -2,9 +2,9 @@
 
 <h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
-<h3 align="left">About me: </h3>
+<img align="right" alt="Coding" width="300" src="https://github.com/adi666-png/adi666-png/blob/main/assets/butterfly.gif">
 
-<img align="right" alt="Coding" width="200" src="https://1.bp.blogspot.com/-dXPJsCD-4Do/XydbfpJGWKI/AAAAAAAA-s8/KNqZ1a5od5Q9sdITasUdYM4w6mUGpxCbQCLcBGAsYHQ/s1600/butterfly.gif">
+<h3 align="left">About me: </h3>
 
 - 👋 Hi, I’m @adi666-png
 - 👀 I’m interested in ...
