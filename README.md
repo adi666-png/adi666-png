@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball.gif">
 
 <h3 align="left">Primary Research Interests </h3>
  
