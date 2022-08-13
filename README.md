@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball1.gif">
 
 <h3 align="left">Primary Research Interests: </h3>
  
