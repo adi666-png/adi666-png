@@ -2,7 +2,7 @@
 
 <h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
-<img align="right" alt="Coding" height = "150" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/looptang.gif">
+<img align="right" alt="Coding" height = "150" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/hello.gif">
 
 <h3 align="left">About me: </h3>
 
