@@ -4,8 +4,7 @@
 
 <img align="right" alt="Coding" height = "150" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/hello.gif">
 
-<h3 align="left">About me: </h3>
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me:;Not+very+interesting,+right?;Move+on+over+to+the+next+section!&color=FFFF00)
 - 👋 Hi, I’m @adi666-png, a final year undergraduate student at ETCE@Jadavpur University.
 - 👀 I’m interested in Quantum Machine Learning, Quantum Communications and Optimization.
 - 🌱 I’m currently learning about applications of quantum algorithms in finance.
@@ -14,7 +13,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/quantumball1.gif">
 
-<h3 align="left">Primary Research Interests: </h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Primary+Research+Interests:;Too+many+buzzwords?;Soon,+they+won't+be!&color=FFA500)
  
 - Machine learning & Artificial Intelligence, in particular using variational quantum circuits and quantum tensor networks for enhacing them
 
