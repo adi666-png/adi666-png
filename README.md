@@ -6,10 +6,9 @@
 
 <h3 align="left">About me: </h3>
 
-- 👋 Hi, I’m @adi666-png
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞 I’m looking to collaborate on ...
+- 👋 Hi, I’m @adi666-png, a final year undergraduate student at ETCE@Jadavpur University.
+- 👀 I’m interested in Quantum Machine Learning, Quantum Communications and Optimization.
+- 🌱 I’m currently learning about applications of quantum algorithms in finance.
 
 ---
 
