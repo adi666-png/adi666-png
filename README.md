@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="850" height="500" src="https://github.com/adi666-png/adi666-png/blob/main/assets/butterfly1.gif">
+<img align="center" alt="QC" width="500" height="500" src="https://github.com/adi666-png/adi666-png/blob/main/assets/qc.gif">
 
 <h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
