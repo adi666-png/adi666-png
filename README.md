@@ -1,8 +1,8 @@
-<img align="center" alt="QC" width="500" height="500" src="https://github.com/adi666-png/adi666-png/blob/main/assets/qc.gif">
+<img align="center" alt="QC" width="850" height="500" src="https://github.com/adi666-png/adi666-png/blob/main/assets/butterfly1.gif">
 
 <h1 align = "center"> Greetings, curious one! <img src="https://github.com/adi666-png/adi666-png/blob/main/assets/wave.gif" width="30px"> You have run into my GitHub repo. </h1>
 
-<img align="right" alt="Coding" height = "150" width="250" src="https://github.com/adi666-png/adi666-png/blob/main/assets/hello.gif">
+<img align="right" alt="Coding" height = "150" width="200" src="https://github.com/adi666-png/adi666-png/blob/main/assets/qc.gif">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=About+Me:;Not+very+interesting,+right?;Move+on+over+to+the+next+section!&color=FFFF00)
 - 👋 Hi, I’m @adi666-png, a final year undergraduate student at ETCE@Jadavpur University.
