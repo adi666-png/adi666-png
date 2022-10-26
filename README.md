@@ -14,11 +14,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Primary+Research+Interests:;Too+many+buzzwords?;Soon,+they+won't+be!&color=FFA500)
  
-- Machine learning & Artificial Intelligence, in particular using variational quantum circuits and quantum tensor networks for enhacing them
+- Solving problems in machine learning and optimization using quantum gate based and annealing approaches
 
-- Solving combinatorial optimization problems using quantum annealing and gate-based approaches
+- Optimizing software stack for quantum computers & Optimal synthesis and compilation of Quantum Circuits
 
-- Optimal & Efficient implementation of quantum circuits designed for important quantum algorithms
+- Architectures for Quantum Computing & Efficient simulation of quantum circuits using Tensor representations
 
 
 
